@@ -1,5 +1,6 @@
 # hello-world
-Created when following the GitHub getting started guide
+
+=====
 
 Have been learning to use Subversion in my current position, and when GitHub came up in a online course I was taking on Python/Data Science, I thought it might be interesting to see how GH compares to svn.
 
